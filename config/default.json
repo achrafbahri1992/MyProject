@@ -1,0 +1,8 @@
+{
+    "db" : "mongodb+srv://achref:3110@cluster0.0f7fz.mongodb.net/projet?retryWrites=true&w=majority",
+    "secret" : "achraf"
+
+    
+
+    
+}
